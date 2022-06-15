@@ -1,0 +1,27 @@
+.quiz{
+    display:flex;
+}
+.quiz1{
+    flex:1;
+    /* border-left:1px solid black; */
+    height:200vh;
+    width:50vw;
+}
+.quiz2{
+    flex:1;
+    /* border:1px solid black; */
+    height:200vh;
+    width:50vw;
+}
+.startbtn{
+  background-color:blue;
+  color:white;
+  margin:20vh;
+  
+  height:8vh;
+  width:20vw;
+  font-white:600;
+  font-size:1rem;
+  border:none;
+  cursor:pointer;
+}

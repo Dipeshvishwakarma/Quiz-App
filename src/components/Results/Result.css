@@ -1,0 +1,38 @@
+.result{
+    margin-left:0vh;
+    margin-top:3vh;
+}
+.result h2{
+    width:20vw;
+}
+.ans{
+    /* background-color:rgb(241, 224, 224); */
+    border: 1px solid green;
+    margin-top:3px;
+    height:20vh;
+    width:40vw;
+    
+}
+.rightAns{
+    color:green;
+    background-color:aliceblue
+}
+.wrongAns{
+   color:red;
+   background-color: bisque;
+}
+h3{
+    font-size:15px;
+    margin-top:2px;
+    margin-left:5px;
+}
+h2{
+    font-size:25px;
+    margin-top:0px;
+    margin-left:10px;
+}
+p{
+    font-size:20px;
+    margin-top:0px;
+    margin-left:10px;
+}
